@@ -1,1 +1,43 @@
-created first
+<!DOCTYPE html>
+<html>
+    <title> Food Carnival Extravaganza</title>
+
+    <link rel="icon" href="img/date.png">
+    <body >
+        <center>
+        <h1>Welcome to Blissful Bites at Food Carnival Extravaganza!🍲🧁  </h1>
+   
+        <p> World of Flavors at the Food Carnival Extravaganza!🍛🍨Keep your tummy empty and fill it with plenty 😅</p>
+    </center>
+    <hr>
+    <p>The Food Carnival Extravaganza is your gateway to a world of flavors, where food lovers from all walks of life come together to celebrate the art of eating. Whether you're craving bold, spicy flavors, comforting classics, or sweet treats, you'll find something to satisfy your cravings here.
+       Dive into a celebration of culinary delights from around the globe. Our food carnival is where flavors meet fun, and everyone is invited! Explore diverse cuisines, enjoy live music, and create unforgettable memories with friends and family.
+    </p>
+    <center>
+        <img width=800px height="250px" src="img/First img.jpg">
+        <h2>Food Tasting Event</h2>
+        <h3> South Indian🍛 | North Indian🫓 | Mexican Cuisine🌮 | Thai Cuisines🥘 |  American Cuisine🍕</h3>
+       <p>Our Food Carnival Extravaganza is more than just a food festival it's a vibrant celebration of culture, community, and creativity. offering everything from local favorites to international delicacies, live cooking demonstrations by top chefs, and a host of fun activities for all ages, there's something for everyone.</p>
+    </center>
+    <hr>
+    <center>
+        <img width=800px height="250px" src="Img/Events.png">
+        <h3>
+        <a href="CookingComp.html">Participants Form</a>
+    </h3>
+    <h2>Cooking Competition👩‍🍳👨‍🍳</h2>
+    <h3> Free Entry🆓 | Pets are Not Allowed 🚫</h3>
+        <p>Join us for a day filled with mouth-watering food, lively music, and an atmosphere buzzing with excitement. Come with an empty stomach and leave with a heart full of memories. The Food Carnival is the perfect place to gather with friends, family, and fellow food enthusiasts to indulge in the joy of eating.</p>
+    <hr>
+    <h2>Contact information</h2>
+    <h3>📱+91-9677477194 | 📧Eventcollabration@gmail.com</h3>
+    <h3> 📍 Besant Nagar Beach, Chennai - 600090 </h3>
+    </center>
+
+    <center>
+        <h3>
+            <a href="Activity.html">Registeration Form | </a><a href="https://www.instagram.com/">Instagram | </a> <a href="https://www.facebook.com/">Facebook</a>
+        </h3>
+    </center>
+</body> 
+</html>
