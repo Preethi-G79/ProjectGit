@@ -1,0 +1,48 @@
+
+    <head>
+        <tilte>Activity Form for Kids</tilte>
+    </head>
+    <center>
+    <h1>Welcome to Blissful Bites at Food Carnival Extravaganza!🍲🧁 </h1> 
+    <h3>Tasting Foods | Cooking Competitions | Activities | Indoor Games</h3> 
+    
+<body bgcolor="grey" style="color: rgb(16, 16, 16);"></body>
+<form>
+<h1>Activity Registeration Form </h1>
+<h2>
+<table >
+    
+    <tr>
+        <td>Name </td> <td> <input type="text" placeholder="Enter your Name"> </td>  <br>
+    </tr>
+    <tr>
+        <td>Age </td> <td> <input type="number" placeholder="Enter your Age"> <br></td>
+    </tr>
+    <tr>
+        <td>Address </td> <td> <input type="text" placeholder="Enter your Address"> <br></td> 
+    </tr>
+    <tr>
+        <td>Activities For Kids</td> 
+        <td>
+        <select>
+           
+            <option>Flip the bottle</option>
+            <option>Treasure hunt</option>
+            <option>Ping Pong</option>
+            <option>Chess</option>
+           <option>Musical Chairs</option>
+        </select>
+       </td> 
+       
+    </tr>
+
+    <tr>
+        <td></td><td> <input type="Submit"> </td> 
+       
+    </tr>
+
+</table>
+</h2>
+</form>
+</center>
+
