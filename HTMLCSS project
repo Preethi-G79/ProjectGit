@@ -15,8 +15,8 @@
     </p>
     <center>
         <img width=800px height="250px" src="img/First img.jpg">
-        <h2>Food Tasting Event</h2>
-        <h3> South Indian🍛 | North Indian🫓 | Mexican Cuisine🌮 | Thai Cuisines🥘 |  American Cuisine🍕</h3>
+        <h2>Events at Blissful Bites 🥂</h2>
+        <h3> South Indian🍛 | North Indian🫓 | Mexican Cuisine🌮 | Thai Cuisines🥘 |  American Cuisine 🍩</h3>
        <p>Our Food Carnival Extravaganza is more than just a food festival it's a vibrant celebration of culture, community, and creativity. offering everything from local favorites to international delicacies, live cooking demonstrations by top chefs, and a host of fun activities for all ages, there's something for everyone.</p>
     </center>
     <hr>
@@ -25,18 +25,28 @@
         <h3>
         <a href="CookingComp.html">Participants Form</a>
     </h3>
-    <h2>Cooking Competition👩‍🍳👨‍🍳</h2>
-    <h3> Free Entry🆓 | Pets are Not Allowed 🚫</h3>
+    <h2>Cooking Competition👩‍🍳👨‍🍳 | Tasting Food 🥣</h2>
+   
         <p>Join us for a day filled with mouth-watering food, lively music, and an atmosphere buzzing with excitement. Come with an empty stomach and leave with a heart full of memories. The Food Carnival is the perfect place to gather with friends, family, and fellow food enthusiasts to indulge in the joy of eating.</p>
+    <hr>
+    <center>
+    <img width="800px" height="300px" src="img/kidplaying.jpg">
+    <h3>
+        <a href="Activity.html">Gaming Registration</a>
+        <h2>Games for Children 🕹️</h2>
+    </h3>
     <hr>
     <h2>Contact information</h2>
     <h3>📱+91-9677477194 | 📧Eventcollabration@gmail.com</h3>
     <h3> 📍 Besant Nagar Beach, Chennai - 600090 </h3>
+    <h3> Entry🆓 | Pets are Not Allowed 🚫</h3>
     </center>
 
     <center>
+       
+
         <h3>
-            <a href="Activity.html">Registeration Form | </a><a href="https://www.instagram.com/">Instagram | </a> <a href="https://www.facebook.com/">Facebook</a>
+            <a href="Events.html">Home Page | </a><a href="https://www.instagram.com/">Instagram | </a> <a href="https://www.facebook.com/">Facebook</a>
         </h3>
     </center>
 </body> 
